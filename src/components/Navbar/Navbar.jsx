@@ -6,7 +6,7 @@ export default function Footer() {
     <div className='mb-10'>
     <div className='my-4 mx-8 flex justify-between items-center'>
       <a href="#">
-        <img src="src\components\Navbar\Assets\logo.svg"  className='w-[140px] md:w-40' alt="logo" />
+        <img src="src/components/Navbar/Assets/logo.svg"  className='w-[140px] md:w-40' alt="logo" />
       </a>
       <div>
         <a href="#" className=' md:hidden'>
